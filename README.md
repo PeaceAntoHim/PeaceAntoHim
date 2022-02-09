@@ -25,8 +25,8 @@
 
 <p align="center">
    <i>
-     "Love the life you live. Live the life you love." <br>
-                                         -Bob Marley
+     "The biggest risk is not taking any risk... In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks." <br>
+                                         -Mark Zuckerberg
   </i>
 </p>       
 
