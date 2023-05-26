@@ -18,7 +18,7 @@
   
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peaceantohim&layout=compact&show_icons=true&theme=transparent)
-  ![peaceantohim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/?username=peaceantohim&show_icons=true&theme=transparent)
+  ![peaceantohim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/?username=peaceantohim&langs_count=10&show_icons=true&theme=transparent)
   ![peaceantohim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peaceantohim&layout=compact&show_icons=true&theme=transparent)
 
 
