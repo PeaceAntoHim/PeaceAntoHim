@@ -19,7 +19,12 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peaceantohim&layout=compact)
   ![peaceantohim github stats](https://github-readme-stats.vercel.app/api/?username=peaceantohim&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
-  ![peaceantohim wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=peaceantohim&layout=compact&theme=rose_pine&v=2)
+<!--   ![peaceantohim wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=peaceantohim&layout=compact&theme=rose_pine&v=2) -->
+ <a href="https://github.com/peaceantohim/github-readme-stats">
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriusjimmy&layout=compact&theme=rose_pine" /> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=peaceantohim&layout=compact&theme=rose_pine&v=2" />
+</a>
+
 </div>
 
 --- 
