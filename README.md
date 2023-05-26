@@ -10,7 +10,7 @@
  
 ## About me
 
-- 🔗 Here's my <a target="_blank" href="https://peaceantohim.github.io/Frans-Portfolio-3.0/">Personal Website</a>
+- 🔗 Here's my <a target="_blank" href="https://frans-sebastian-portfolio.vercel.app/">Personal Website</a>
 
 
 
