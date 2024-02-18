@@ -11,7 +11,7 @@
 ## About me
 
 - 🔗 Here's my <a target="_blank" href="https://frans-sebastian-portfolio.vercel.app/">Personal Website</a>
-- [![wakatime](https://wakatime.com/badge/user/47036d02-f34d-4ce4-9f0f-2d0e75b79f57.svg)](https://wakatime.com/@47036d02-f34d-4ce4-9f0f-2d0e75b79f57)
+ [![wakatime](https://wakatime.com/badge/user/47036d02-f34d-4ce4-9f0f-2d0e75b79f57.svg)](https://wakatime.com/@47036d02-f34d-4ce4-9f0f-2d0e75b79f57)
 
 
 
