@@ -11,7 +11,9 @@
 ## About me
 
 - 🔗 Here's my <a target="_blank" href="https://frans-sebastian-portfolio.vercel.app/">Personal Website</a>
-- [![wakatime](https://wakatime.com/badge/user/47036d02-f34d-4ce4-9f0f-2d0e75b79f57.svg)](https://wakatime.com/@47036d02-f34d-4ce4-9f0f-2d0e75b79f57)
+  [![wakatime](https://wakatime.com/badge/user/47036d02-f34d-4ce4-9f0f-2d0e75b79f57.svg)](https://wakatime.com/@47036d02-f34d-4ce4-9f0f-2d0e75b79f57)
+  ![Wakatime Stats 2](https://wakatime.com/share/@peaceantohim/d910a694-d4b2-497e-93e9-7c527528a6d4.svg)
+  
 
 
 
@@ -22,8 +24,6 @@
   ![peaceantohim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/?username=peaceantohim&langs_count=10&show_icons=true&theme=transparent)
   ![peaceantohim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peaceantohim&layout=compact&show_icons=true&theme=transparent)
   ![Wakatime Stats 1](https://wakatime.com/share/@peaceantohim/af4d159d-a8a5-4e85-b4d5-0a05c2d32eac.svg)
-  ![Wakatime Stats 2](https://wakatime.com/share/@peaceantohim/d910a694-d4b2-497e-93e9-7c527528a6d4.svg)
-
 
 
 </div>
