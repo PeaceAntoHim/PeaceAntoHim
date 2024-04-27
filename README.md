@@ -26,7 +26,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeaceAntoHim&theme=tokyonight)
   ![peaceantohim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/?username=peaceantohim&langs_count=10&show_icons=true&theme=transparent)
   ![peaceantohim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=peaceantohim&layout=compact&show_icons=true&theme=transparent)
-  ![Wakatime Stats 1](https://wakatime.com/share/@peaceantohim/af4d159d-a8a5-4e85-b4d5-0a05c2d32eac.svg)
+  ![Wakatime Stats 1](https://wakatime.com/share/@peaceantohim/e587762c-87de-4049-ad00-aae5a1a05abd.svg)
 
 
 </div>
