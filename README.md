@@ -14,7 +14,7 @@
   </br></br>
   [![wakatime](https://wakatime.com/badge/user/47036d02-f34d-4ce4-9f0f-2d0e75b79f57.svg)](https://wakatime.com/@47036d02-f34d-4ce4-9f0f-2d0e75b79f57)
   </br></br>
-  ![Wakatime Stats 2](https://wakatime.com/share/@peaceantohim/e587762c-87de-4049-ad00-aae5a1a05abd.svg)
+  ![Wakatime Stats 1](https://wakatime.com/share/@peaceantohim/97325a2d-4e6b-48d4-969c-30e25c9fd95d.svg)
   </br>
   
 
