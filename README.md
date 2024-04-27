@@ -13,7 +13,7 @@
 - 🔗 Here's my <a target="_blank" href="https://frans-sebastian-portfolio.vercel.app/">Personal Website</a>
   </br></br>
   [![wakatime](https://wakatime.com/badge/user/47036d02-f34d-4ce4-9f0f-2d0e75b79f57.svg)](https://wakatime.com/@47036d02-f34d-4ce4-9f0f-2d0e75b79f57)
-  </br>
+  </br></br>
   ![Wakatime Stats 2](https://wakatime.com/share/@peaceantohim/1ac354e1-ae6e-4f9f-915b-4a3a0cf4c6a8.svg)
   </br>
   
